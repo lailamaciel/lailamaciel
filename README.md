@@ -34,13 +34,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/laila-maciel-a4ba9868/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@lailaamaciel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/_lailamaciel_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
   </a>
 </div>
 
@@ -55,9 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lailamaciel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/lailamaciel/lailamaciel/output/snake.svg" alt="Snake animation" />
-
-###
 ###
