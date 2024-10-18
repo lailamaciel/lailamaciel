@@ -1,20 +1,38 @@
-<h2 align="left">👋 Hi guys, welcome to my profile</h2>
+
+
+
+```
+Console.WriteLine("Welcome to my profile!😊");
+```
+
+
+#
+
+- Undergraduate student in information systems;
+- I'm 22 years old;
+- Always looking for the climb.
+
+#
 
 ###
 
-<p align="left">My name is Laila Maciel and I am a graduate student in information systems.</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/laila-maciel-a4ba9868/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@lailaamaciel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/_lailamaciel_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">About Me</h2>
+#
 
-###
-
-<p align="left">- I'm 22 years old<br>- I'm from MG, Brazil<br>- I'm passionate about games</p>
-
-###
-
-<h3 align="left">My Techs</h3>
+Some of the skills I'm working on: 
 
 ###
 
@@ -24,27 +42,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+</div> 
 
 ###
 
-<h3 align="left">Social Media</h3>
+ - C#;
+ - Git;
+ - Java;
+
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/laila-maciel-a4ba9868/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@lailaamaciel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/_lailamaciel_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+#
 
 <h3 align="left">Stats</h3>
 
@@ -56,3 +65,5 @@
 </div>
 
 ###
+
+#
