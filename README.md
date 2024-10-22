@@ -14,6 +14,8 @@ Console.WriteLine("Welcome to my profile!😊");
 
 #
 
+Contact me:
+
 ###
 
 <div align="left">
@@ -55,7 +57,7 @@ Some of the skills I'm working on:
 
 #
 
-<h3 align="left">Stats</h3>
+Stats
 
 ###
 
