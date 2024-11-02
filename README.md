@@ -40,7 +40,7 @@ Some of the skills I'm working on:
 
  - C#;
  - Java;
- - Java;
+ - JavaScript;
  - Html; 
  - CSS;
  - Git;
