@@ -9,7 +9,7 @@ Console.WriteLine("Welcome to my profile!😊");
 #
 
 - 🎓 Undergraduate student in information systems;
-- 👱🏻‍♀️ I'm 22 years old;
+- 👱🏻‍♀️ I'm 23 years old;
 - 📈 Always looking for the climb.
 
 #
