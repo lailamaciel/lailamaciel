@@ -49,20 +49,6 @@ Sou Laila, estudante de Sistemas de Informação com paixão por tecnologia, des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
-
----
-
-## 📌 Projetos em Destaque
-
-### 🎮 [Jogo da Velha em C#](https://github.com/lailamaciel/jogo-da-velha)  
-Jogo da velha com interface de console feito em C#, aplicando lógica de programação, tratamento de erros e estrutura de repetição.
-
-### ✅ [ToDo List](https://github.com/lailamaciel/todo-list)  
-Aplicativo de lista de tarefas com CRUD completo, ideal para organizar afazeres diários. Desenvolvido com HTML, CSS e JavaScript.
-
-### 💖 [Site para minha namorada](https://github.com/lailamaciel/site-namorada)  
-Página pessoal feita como presente, com carinho e front-end personalizado. Foco em design, HTML, CSS e animações leves.
-
 ---
 
 ## 📊 GitHub Stats
