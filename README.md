@@ -4,20 +4,19 @@
 Console.WriteLine("Welcome to my GitHub!");
 ```
 
-Sou Laila, estudante de Sistemas de Informação com paixão por tecnologia, desenvolvimento de software e soluções criativas. Atualmente, estou focada em me especializar em backend e automação. Também estou explorando o mundo do front-end e aprimorando meus projetos pessoais com tecnologias modernas.
+I'm Laila, an Information Systems student with a passion for technology, software development, and creative problem-solving.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 🎓 Estudante de Sistemas de Informação — Faculdade Cotemig, 2º período  
-- 💡 Interesse por: desenvolvimento backend, banco de dados, automação e inteligência artificial  
-- 🌱 Atualmente estudando: Laravel, React, Python para automação e Mysql  
-- 💻 Proativa, autodidata e apaixonada por resolver problemas com código  
+- 🎓 Information Systems student 
+- 💡 Interests: fullstack development, databases, automation, and artificial intelligence
+- 💻 Proactive, self-taught, and passionate about solving problems through code 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -71,7 +70,7 @@ Sou Laila, estudante de Sistemas de Informação com paixão por tecnologia, des
 </picture>
 
 ###
-## 🌐 Contato e Redes
+## 🌐 Contact & Socials
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laila-maciel-a4ba9868/" target="_blank">
@@ -84,4 +83,4 @@ Sou Laila, estudante de Sistemas de Informação com paixão por tecnologia, des
 
 ---
 
-> “Desafios me motivam. Programar é mais do que escrever código, é transformar ideias em soluções reais.” – Laila Maciel
+> Emjoy ;/
