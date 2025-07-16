@@ -83,4 +83,4 @@ I'm Laila, an Information Systems student with a passion for technology, softwar
 
 ---
 
-> Emjoy ;/
+> Enjoy ;/
